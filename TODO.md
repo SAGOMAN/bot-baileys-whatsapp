@@ -8,3 +8,10 @@
 
 #Correr proyecto
 # pnpm run dev
+
+# Crear la carpeta storage en la raiz del proyecto
+
+# Crear archivo .env para guardar variables API KEY
+    #GEMINI_API_KEY
+    #GROQ_API_KEY
+    #ELEVENLABS_API_KEY
